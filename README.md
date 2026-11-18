@@ -11,4 +11,6 @@ DevOps engineer. Infrastructure as code, from bare metal to the cloud.
 
 **[azure-infrastructure](https://github.com/mipapi1/azure-infrastructure)**: Bicep for a zero-trust Azure landing zone.
 
-<sub>Terraform · Ansible · Kubernetes · Argo CD · Vault · Proxmox · Azure · Bicep · GitHub Actions</sub>
+**[temupuffer](https://github.com/mipapi1/temupuffer)**: a small search database on object storage, built to learn how turbopuffer works: write-ahead log, compare-and-swap, indexing and caching.
+
+<sub>Terraform · Ansible · Kubernetes · Argo CD · Vault · Proxmox · Azure · Bicep · GitHub Actions · Python</sub>
